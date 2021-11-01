@@ -1,6 +1,6 @@
-# developer-study-note
+# Developer Study Note
 
-개발자로서 알아야하는 지식들을 최대한 요약 및 정리하는 것이 목표
+목표: 서버 개발자로서 알아야하는 지식들을 최대한 요약 및 정리하기
 
 - [실행](run/README.md)
 - [배포](deploy/README.md)
