@@ -1,10 +1,25 @@
 # Developer Study Note
 
-목표: 서버 개발자로서 알아야하는 지식들을 최대한 요약 및 정리하기
+개발자로서 알아야 하는 지식들을 마크다운으로 최대한 요약 및 정리하는 프로젝트
 
-- [실행](run/README.md)
-- [배포](deploy/README.md)
+- 최대한 핵심만 압축하여 정리하되, 누구든지 이해할 수 있도록 자신만의 언어로 정리하는 것이 목표입니다.
+- 개인 일정에 따라 비정기적으로 업데이트됩니다.
+- 수정/추가하고 싶은 내용이 있다면 Fork 후 내용 수정하여 PR 날려주시면 됩니다.
+
+### 목록
+
 - [API](api/README.md)
 - [보안](security/README.md)
+- [배포](deploy/README.md)
+- [Spring](Spring/README.md)
+
+### TODO
+
+- [실행](run/README.md)
 - [테스트](test/README.md)
-- [자바스크립트](https://github.com/bugoverdose/javascript-study-note)
+- [아키텍쳐](architecture/README.md)
+- 데이터베이스
+
+### Legacy
+
+- [자바스크립트 공부노트](https://github.com/bugoverdose/javascript-study-note)
