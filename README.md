@@ -8,17 +8,19 @@
 
 ### 목록
 
+- [웹](web/README.md)
 - [API](api/README.md)
 - [보안](security/README.md)
 - [배포](deploy/README.md)
-- [Spring](Spring/README.md)
+- [Spring](spring/README.md)
 
 ### TODO
 
+- [Java](java/README.md)
 - [실행](run/README.md)
 - [테스트](test/README.md)
-- [아키텍쳐](architecture/README.md)
-- 데이터베이스
+- [아키텍쳐와 패러다임](architecture/README.md)
+- [데이터베이스](database/README.md)
 
 ### Legacy
 
